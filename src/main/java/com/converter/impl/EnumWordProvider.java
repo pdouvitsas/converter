@@ -8,7 +8,7 @@ import java.util.Map;
  */
  enum EnumWordProvider {
 	INSTANCE;
-	
+	 
 	public static final String SPACE = " ";
 	public static final String DEFAULT_LANGUAGE = "EN";
 	public static final String DEFAULT_TYPE = "INT";

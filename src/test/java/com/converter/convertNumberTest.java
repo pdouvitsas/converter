@@ -11,7 +11,7 @@ public class convertNumberTest {
 
 	
 	INumberToStringConverter<Integer> integerConverter = NumberToStringFactory.createConverter(null, null);
-	 
+
 	//first all the single digits
 	@Test
 	public void convert0() {

@@ -1,8 +1,11 @@
 How to use
 
 The following factory can be called
+
 INumberToStringConverter<Integer> integerConverter = NumberToStringFactory.createConverter(null, null);
+
 and the following function that converts the number to British word
+
 String convertedWord = integerConverter.convert(number);
 
 

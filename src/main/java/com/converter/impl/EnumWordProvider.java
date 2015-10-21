@@ -6,7 +6,7 @@ import java.util.Map;
  * enumeration of all the texts needed
  * 
  */
- enum EnumWordProvider {
+ enum EnumWordProvider { 
 	INSTANCE;
 	 
 	public static final String SPACE = " ";
